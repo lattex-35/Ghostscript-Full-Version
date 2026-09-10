@@ -234,3 +234,6 @@ This repository serves as the official landing page for Ghostscript. The softwar
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Ghostscript today!**
+
+---
+**Last updated:** 2026-09-10 08:50:47 UTC
