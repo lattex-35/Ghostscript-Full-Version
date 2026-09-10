@@ -1,0 +1,1 @@
+# Ghostscript-Full-Version
