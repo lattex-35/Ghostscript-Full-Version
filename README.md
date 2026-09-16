@@ -236,4 +236,4 @@ This repository serves as the official landing page for Ghostscript. The softwar
 **Get the most recent version of Ghostscript today!**
 
 ---
-**Last updated:** 2026-09-16 13:18:17 UTC
+**Last updated:** 2026-09-16 18:02:06 UTC
